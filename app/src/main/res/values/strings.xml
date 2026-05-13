@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NFCAppv2</string>
+    <string name="leer_nfc">Leer NFC</string>
+    <string name="id">ID</string>
+    <string name="nombre">Nombre</string>
+    <string name="saldo">Saldo</string>
+    <string name="iniciar_servicio">Iniciar Servicio HTTP</string>
+    <string name="detener_servicio">Detener Servicio HTTP</string>
+    <string name="servicio_activo">Servicio activo en puerto: %d</string>
+    <string name="servicio_inactivo">Servicio detenido</string>
+    <string name="lectura_nfc_manual">Lectura NFC Manual</string>
+</resources>

@@ -1,0 +1,1 @@
+NOTA IMPORTANTE : Hay que redirigir el puerto para el funcionamiento para pruebas desde postman y parecidos. & "C:\Users\danie\AppData\Local\Android\Sdk\platform-tools\adb.exe" forward tcp:8080 tcp:8080 esta es el comando con mi ruta, para probarla cambia la ruta
